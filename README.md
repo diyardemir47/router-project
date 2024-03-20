@@ -23,9 +23,10 @@ Bu özellikler, React uygulamalarında gezinme işlevselliğini geliştirmek iç
 
 
 
+![rouytuty](https://github.com/diyardemir47/router-project/assets/99801830/23219350-4f36-4bfe-b423-aa3efda0f5f6)
 
+![rararsasrasr](https://github.com/diyardemir47/router-project/assets/99801830/b124f105-b689-42d9-9910-ff8420d30706)
 
-![rouytuty](https://github.com/diyardemir47/router-project/assets/99801830/eb7b31f9-1c00-494c-a777-1ac86135e54d)
-![rararsasrasr](https://github.com/diyardemir47/router-project/assets/99801830/14e36d96-43bc-4603-9b90-4457f934ed48)
-![dasdasdasdas](https://github.com/diyardemir47/router-project/assets/99801830/d2a09851-6d38-426b-a931-8eadc5df7c74)
-![sadfasfasfasfa](https://github.com/diyardemir47/router-project/assets/99801830/64bb3dbd-8ae6-4002-b36c-acecda137960)
+![dasdasdasdas](https://github.com/diyardemir47/router-project/assets/99801830/556305f0-7125-4390-b42a-06393435b704)
+
+![sadfasfasfasfa](https://github.com/diyardemir47/router-project/assets/99801830/c484f044-1f3d-4649-b0bc-288345db5c68)
