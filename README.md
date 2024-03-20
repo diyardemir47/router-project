@@ -20,3 +20,7 @@ Yönlendirme: Yönlendirme işlevselliğini sağlamak için Redirect bileşenini
 Rutinleme: Belirli bir zaman aralığında belirli bir sayfaya yönlendirme işlevselliğini sağlamak için Route bileşeninin kullanımını gösteren örnekler.
 Yerel Bağlantılar: Yerel bağlantılar için NavLink ve Link bileşenlerinin nasıl kullanılacağını gösteren örnekler.
 Bu özellikler, React uygulamalarında gezinme işlevselliğini geliştirmek için kullanılabilir ve projenize özgü ihtiyaçlara göre özelleştirilebilir.
+![rouytuty](https://github.com/diyardemir47/router-project/assets/99801830/eb7b31f9-1c00-494c-a777-1ac86135e54d)
+![rararsasrasr](https://github.com/diyardemir47/router-project/assets/99801830/14e36d96-43bc-4603-9b90-4457f934ed48)
+![dasdasdasdas](https://github.com/diyardemir47/router-project/assets/99801830/d2a09851-6d38-426b-a931-8eadc5df7c74)
+![sadfasfasfasfa](https://github.com/diyardemir47/router-project/assets/99801830/64bb3dbd-8ae6-4002-b36c-acecda137960)
